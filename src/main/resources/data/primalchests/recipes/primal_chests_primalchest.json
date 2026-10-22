@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "www",
+    "wcw",
+    "www"
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:chests"
+    },
+    "w": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "primalchests:primal_chest"
+  }
+}

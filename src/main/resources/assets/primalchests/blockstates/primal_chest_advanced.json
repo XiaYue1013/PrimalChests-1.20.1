@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "primalchests:block/primal_chest_advanced" },
+    "facing=east": { "model": "primalchests:block/primal_chest_advanced" },
+    "facing=south": { "model": "primalchests:block/primal_chest_advanced" },
+    "facing=west": { "model": "primalchests:block/primal_chest_advanced" }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "primalchests:models/primal_chest"
+    },
+    {
+      "type": "single",
+      "resource": "primalchests:models/primal_chest_advanced"
+    }
+  ]
+}
